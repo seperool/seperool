@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⚡I'm an electrical engineering student.
-- 💻I'm currently learning R, Git & Github and data science.
+- 💻I'm currently learning R, python and data science.
 ##
 ![seperool's GitHub stats](https://github-readme-stats.vercel.app/api?username=seperool&show_icons=true&theme=dark)
 ##
