@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 -->
 - ⚡I'm an electrical engineering student.
 - 💻I'm currently learning R, Python, databases and data science.
+
 ##
+
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seperool&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 ##
+
 - 📓Tools and technologies:
 <div style="display: inline_block"><br>
   <a href="https://github.com/seperool">
@@ -39,7 +43,9 @@ Here are some ideas to get you started:
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
+
 ##
+
 - 💬Contact:
 <div>
   <a href = "mailto:seperool@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
