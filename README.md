@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 -->
 - ⚡I'm an electrical engineering student.
 - 💻I'm currently learning R, Python, databases and data science.
-##
+<!--##
 ![seperool's GitHub stats](https://github-readme-stats.vercel.app/api?username=seperool&show_icons=true&theme=dark)
+-->
 ##
 - 📓Programming languages I know:
 <div style="display: inline_block"><br>
