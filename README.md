@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⚡I'm an electrical engineering student.
-- 💻I'm currently learning R, Python, databases and data science.
+- 💻I'm currently learning R, Python, databases and data science/analysis.
 
 ##
 
