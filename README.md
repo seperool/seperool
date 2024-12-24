@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 - ⚡I'm an electrical engineering student.
 - 💻I'm currently learning R, Python, databases and data science/analysis.
-- 🌱 I'm currently learning eletrônica and Embedded Systems.
+- 🌱 I'm currently learning electronics and Embedded Systems.
 
 ##
 
