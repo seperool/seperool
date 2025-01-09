@@ -1,4 +1,4 @@
-### Hi! I'm Sergio Pedro Oliveira!
+### Hi! I'm Sergio Pedro!
 
 <!--
 **seperool/seperool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,10 +11,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱
 -->
 - ⚡I'm an electrical engineering student.
 - 💻I'm currently learning R, Python, databases and data science/analysis.
-- 🌱 I'm currently learning electronics and Embedded Systems.
+- 🔭 I'm currently learning electronics and Embedded Systems.
 
 ##
 
