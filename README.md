@@ -1,4 +1,4 @@
-### Hi! I'm Sergio Pedro!
+### Hi! I'm Sergio Pedro Oliveira!
 
 <!--
 **seperool/seperool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
