@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ##
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/seperool">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seperool&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
